@@ -1,0 +1,5 @@
+PS C:\Users\HEMALATHNA PAVANI\OneDrive\Desktop\perl> perl pushpop.pl
+before push operation : THUB vlsi design
+after push operation : THUB vlsi design flow
+popped element : flow
+after pop operation : THUB vlsi design
